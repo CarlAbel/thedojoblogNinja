@@ -56,21 +56,6 @@ const styles = {
   `,
 }
 
-// const styles = css`
-// 	padding: 1.5rem 2rem;
-// 	display: flex;
-// 	align-items: center;
-// 	max-width: 600px;
-// 	margin: 1rem auto;
-// 	background: #f2f2f2;
-// 	border-radius: 1.5rem;
-// 	justify-content: space-between;
-// `;
-
-// const heading = css`
-// 	color: #f1356d;
-// `;
-
 const Navbar = () => {
   return (
     <nav css={styles.navbar}>
